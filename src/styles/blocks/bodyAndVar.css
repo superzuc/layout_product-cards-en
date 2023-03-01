@@ -1,0 +1,15 @@
+:root {
+  --min-width-container: 200px;
+  --content-card-margin-top: 16px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-weight: 400;
+  font-family: "Roboto", Arial, Helvetica, sans-serif ;
+  color: #060b35;
+}
