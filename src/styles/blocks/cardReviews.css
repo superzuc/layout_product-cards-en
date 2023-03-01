@@ -1,0 +1,15 @@
+.card__reviews-container {
+  display: flex;
+  align-self: flex-start;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 17px;
+  height: 16px;
+  width: 100%;
+}
+
+.card__reviews-count {
+  font-size: 10px;
+  text-align: center;
+  line-height: 14px;
+}

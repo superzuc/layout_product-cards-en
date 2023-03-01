@@ -1,0 +1,22 @@
+.card__price-container {
+  display: flex;
+  align-self: flex-start;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  line-height: 18px;
+  margin-top: 24px;
+}
+
+.card__price-title {
+  margin: 0;
+  color: #616070;
+  font-weight: 400;
+  font-size: 12px;
+}
+
+.card__price-amount {
+  margin: 0;
+  font-weight: 700;
+  font-size: 16px;
+}
